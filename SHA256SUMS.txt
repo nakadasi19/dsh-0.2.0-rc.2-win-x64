@@ -1,0 +1,1 @@
+eeb7e78ca537230b019c93e87684e412e621c209def913a850aa3bd53a35a16d  deepseek-harness-0.2.0-rc.2-win-x64-portable.7z
